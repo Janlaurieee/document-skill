@@ -56,3 +56,28 @@ Thumbs.db
 htmlcov/
 .pytest_cache/
 .tox/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.docx
+~$*.docx
